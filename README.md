@@ -1,8 +1,8 @@
 # 🚀 Predictor-Pro
 
-**Predictor-Pro** is a smart football match prediction web application that delivers **data-driven predictions, probabilities, and insights** for upcoming matches.
+**Predictor-Pro** is a smart football match prediction web application that delivers **data-driven predictions, probabilities and insights** for upcoming matches.
 
-It combines a **PHP + MySQL backend** with a **modern AJAX-powered frontend** to provide fast, dynamic, and user-friendly predictions.
+It combines a **PHP + MySQL backend** with a **modern AJAX-powered frontend** to provide fast, dynamic and user-friendly predictions.
 
 ---
 
