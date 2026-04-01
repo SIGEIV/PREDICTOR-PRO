@@ -8,7 +8,6 @@ It combines a **PHP + MySQL backend** with a **modern AJAX-powered frontend** to
 
 ## 📸 Screenshots
 
-> 📁 Create a folder named `screenshots` in your repo and add your images there.
 
 ### 🏠 Homepage
 ![Homepage](screenshots/homepage.png)
